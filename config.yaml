@@ -1,0 +1,15 @@
+baseURL: https://example.com
+languageCode: en
+DefaultContentLanguage: en
+title: Website of Jane Doe
+theme: anatole
+summarylength: 10
+enableEmoji: yes
+enableRobotsTXT: yes
+pygmentsUseClasses: yes
+pygmentsCodeFences: yes
+pygmentsCodefencesGuessSyntax: yes
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
